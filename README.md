@@ -4,6 +4,7 @@
 
 ## 코딩 기초 트레이닝 
 
-### 1. 문자열 출력하기
-- 문제 링크: [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)
-- 파일: `basic/print_string.py`
+- [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)  
+  File: `print_string.py`
+- [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951)  
+  File: `print_ab.py`
