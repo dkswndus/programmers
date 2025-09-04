@@ -8,3 +8,5 @@
   File: `print_string.py`
 - [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951)  
   File: `print_ab.py`
+- [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950)  
+  File: `repeat_string.py`  
